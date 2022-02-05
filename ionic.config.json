@@ -1,0 +1,7 @@
+{
+  "name": "IonicOneSignalTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
